@@ -1,0 +1,10 @@
+﻿id,firstName,lastName,salary,managerId
+123,Joe,Doe,60000,
+124,Martin,Chekov,45000,123
+125,Bob,Ronstad,47000,123
+300,Alice,Hasacat,50000,124
+305,Brett,Hardleaf,44000,300
+306,Ogura,Kai,41000,305
+307,Osaka,Keigo,38000,306
+308,Suzuki,Tereyuki,33000,307
+309,Saka,Mari,39000,300
